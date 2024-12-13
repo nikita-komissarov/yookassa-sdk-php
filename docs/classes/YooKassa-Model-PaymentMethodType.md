@@ -35,7 +35,7 @@ PaymentMethodType - Тип источника средств для провед
 | public | [SBERBANK](../classes/YooKassa-Model-PaymentMethodType.md#constant_SBERBANK) |  | Платеж СбербанкОнлайн |
 | public | [CASH](../classes/YooKassa-Model-PaymentMethodType.md#constant_CASH) |  | Платеж наличными |
 | public | [MOBILE_BALANCE](../classes/YooKassa-Model-PaymentMethodType.md#constant_MOBILE_BALANCE) |  | Платеж с баланса мобильного телефона |
-| public | [APPLE_PAY](../classes/YooKassa-Model-PaymentMethodType.md#constant_APPLE_PAY) |  | латеж ApplePay |
+| public | [APPLE_PAY](../classes/YooKassa-Model-PaymentMethodType.md#constant_APPLE_PAY) |  | Платеж ApplePay |
 | public | [GOOGLE_PAY](../classes/YooKassa-Model-PaymentMethodType.md#constant_GOOGLE_PAY) |  | Платеж Google Pay |
 | public | [QIWI](../classes/YooKassa-Model-PaymentMethodType.md#constant_QIWI) |  | Платеж из кошелька Qiwi |
 | public | [WEBMONEY](../classes/YooKassa-Model-PaymentMethodType.md#constant_WEBMONEY) |  | Платеж из кошелька Webmoney |
